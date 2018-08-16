@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{50C099BA-73B8-4188-A0EE-FF2A47302CA4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RewardedDemo/Demo.xaml.cs">
+    <Files>
+      <File FileName="RewardedDemo/App.xaml" Line="13" Column="15" />
+      <File FileName="RewardedDemo/App.xaml.cs" Line="17" Column="32" />
+      <File FileName="RewardedDemo/Demo.xaml" Line="10" Column="1" />
+      <File FileName="RewardedDemo/IViewAd.cs" Line="6" Column="22" />
+      <File FileName="RewardedDemo.Android/RewardedAd.cs" Line="82" Column="1" />
+      <File FileName="RewardedDemo/Demo.xaml.cs" Line="41" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RewardedDemo.iOS FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RewardedDemo.Android PreferredExecutionTarget="Android.an8" />
+</Properties>

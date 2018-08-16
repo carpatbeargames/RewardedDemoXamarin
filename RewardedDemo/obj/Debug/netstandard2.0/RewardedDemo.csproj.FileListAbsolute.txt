@@ -1,0 +1,8 @@
+/Users/cosmin.stanciu/Projects/RewardedDemo/RewardedDemo/bin/Debug/netstandard2.0/RewardedDemo.deps.json
+/Users/cosmin.stanciu/Projects/RewardedDemo/RewardedDemo/bin/Debug/netstandard2.0/RewardedDemo.dll
+/Users/cosmin.stanciu/Projects/RewardedDemo/RewardedDemo/bin/Debug/netstandard2.0/RewardedDemo.pdb
+/Users/cosmin.stanciu/Projects/RewardedDemo/RewardedDemo/obj/Debug/netstandard2.0/RewardedDemo.csproj.CoreCompileInputs.cache
+/Users/cosmin.stanciu/Projects/RewardedDemo/RewardedDemo/obj/Debug/netstandard2.0/RewardedDemo.AssemblyInfoInputs.cache
+/Users/cosmin.stanciu/Projects/RewardedDemo/RewardedDemo/obj/Debug/netstandard2.0/RewardedDemo.AssemblyInfo.cs
+/Users/cosmin.stanciu/Projects/RewardedDemo/RewardedDemo/obj/Debug/netstandard2.0/RewardedDemo.dll
+/Users/cosmin.stanciu/Projects/RewardedDemo/RewardedDemo/obj/Debug/netstandard2.0/RewardedDemo.pdb
